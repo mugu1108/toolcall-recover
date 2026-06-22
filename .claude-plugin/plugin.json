@@ -1,0 +1,21 @@
+{
+  "name": "toolcall-recover",
+  "displayName": "Tool-call Recover",
+  "description": "ツール結果の文字化けで生のツール呼び出しマークアップ(invoke/parameter タグ)が地の文へ漏れる出力崩壊を、Stop/SubagentStop hook で検知し、クリーンになるまで粘って復旧させるハーネス。復旧スキル・自己改善スキル・検知 hook をバンドル。",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nam Tech Studio",
+    "url": "https://github.com/nam-tech-studio"
+  },
+  "homepage": "https://github.com/nam-tech-studio/toolcall-recover",
+  "repository": "https://github.com/nam-tech-studio/toolcall-recover",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "hooks",
+    "skills",
+    "tool-call",
+    "recovery",
+    "resilience"
+  ]
+}

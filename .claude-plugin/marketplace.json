@@ -1,0 +1,14 @@
+{
+  "name": "nam-tech-studio",
+  "owner": {
+    "name": "Nam Tech Studio",
+    "url": "https://github.com/nam-tech-studio"
+  },
+  "plugins": [
+    {
+      "name": "toolcall-recover",
+      "source": "./",
+      "description": "ツール呼び出し崩壊を検知して粘り強く復旧するハーネス（復旧/自己改善スキル + Stop/SubagentStop 検知 hook）。"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# 評価スキル等が吐く作業成果物
+output/
+
+# OS / editor
+.DS_Store
+*.swp
