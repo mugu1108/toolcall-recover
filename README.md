@@ -77,3 +77,4 @@ bash hooks/test-detect-toolcall-leak.sh
 ## ライセンス
 
 MIT License — 詳細は [LICENSE](./LICENSE) を参照。
+動作確認用
